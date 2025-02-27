@@ -50,27 +50,4 @@ Objective: Measure model performance using classification metrics.
 ### Step 5: Model Tuning and Optimization
 Objective: Improve model performance through tuning.
 
-#### Tasks:
-- Experiment with different optimizers (Adam, SGD, etc.) and activation functions.
-- Adjust learning rate, batch size, and number of epochs.
-- Use **Grid Search** or **Random Search** for hyperparameter tuning.
 
-## Model Evaluation Criteria
-- **EDA Quality**: Depth of dataset understanding.
-- **Text Preprocessing**: Effectiveness of data cleaning techniques.
-- **Model Choice**: Selection of a suitable architecture.
-- **Performance Metrics**: Classification results (accuracy, precision, recall, F1-score, AUC-ROC).
-- **Code Quality**: Clarity, efficiency, and modularity.
-- **Justification**: Explanation of modeling choices.
-
-## Expected Deliverables
-1. **Code Implementation**: 
-   - Submit a Jupyter Notebook (.ipynb) or Python file (.py) containing:
-     - EDA (with visualizations)
-     - Text preprocessing pipeline
-     - Model training and evaluation
-     - Model tuning (if applicable)
-   
-2. **Evaluation Metrics**:
-   - Report accuracy, precision, recall, F1-score, and AUC-ROC.
-   - Include a Confusion Matrix.
